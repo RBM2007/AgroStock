@@ -10,4 +10,4 @@ modelagem e prototipação. A implementação do código ainda não foi iniciada
 
 ## Artefatos
 
-- Protótipos e fluxograma: [link público do Figma]
+- Protótipos e fluxograma: https://www.figma.com/design/euR22jVDxDSN6vjuBL92AT/Projeto-AgroStock?node-id=0-1&p=f&t=oaK3WNmissS1ouSX-0
